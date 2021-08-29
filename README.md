@@ -38,9 +38,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npx create-next-app next-crud ou npx create-next-app -e with-tailwindcss next-crud
 
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
 npx tailwindcss init -p
 
 npm install --save-dev @types/react typescript
+
 npm i firebase
 
 ## Paginas
